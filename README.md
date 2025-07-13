@@ -8,3 +8,4 @@ Check `config.py` to see a dictionary of currencies. Feel free to add more; they
 
 # Preview
 ![Money Conversion GUI Preview](contrib/Money-Conversion-Gui-Example.webp)
+
