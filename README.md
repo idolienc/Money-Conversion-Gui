@@ -1,4 +1,4 @@
-# Money-Conversion-Gui
+# Money Converter
 
 A simple money conversion GUI that I didn't expect to publish, as it was only meant to be a personal project to learn how to use a GUI library - Made using PySide6.
 
