@@ -1,7 +1,7 @@
 from PySide6 import QtWidgets, QtGui, QtCore
 import sys
 import requests
-from useful import key, currencies
+from config import key, currencies
 
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self):

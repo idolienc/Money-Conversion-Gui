@@ -4,4 +4,4 @@ A simple money conversion GUI that I didn't expect to publish, as it was only me
 
 **Note:** Please sign up at [https://www.exchangerate-api.com/](https://www.exchangerate-api.com/) and get an API key—otherwise, conversions will not work.
 
-Check `useful.py` to see a dictionary of currencies. Feel free to add more; they should work if the 3-character abbreviation is recognized by the API. You can also find where to place your API key in that file.
+Check `config.py` to see a dictionary of currencies. Feel free to add more; they should work if the 3-character abbreviation is recognized by the API. You can also find where to place your API key in that file.
